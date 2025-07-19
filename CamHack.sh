@@ -1,7 +1,7 @@
 #!/bin/bash
 # CamHack v1.3
-# Powered by Devil Tigers
-# Credits goes to the Devil Tigers [github.com/Devil-Tigers/]
+# Powered by lolodjy ofc
+# Credits goes to the lolodjy ofc [github.com/lolodjy309/CamHack/]
 
 trap 'printf "\n";stop' 2
 clear
@@ -15,7 +15,7 @@ echo -e "\e[34m  | |___ / ___ \| |  | | \e[91m|  _  |/ ___ \ |___| . \  "
 echo -e "\e[34m   \____/_/   \_\_|  |_| \e[91m|_| |_/_/   \_\____|_|\_\ "
 echo " "
 echo -e "\e[33m======================================================="
-echo -e "\e[36m   ~Script by \e[1mThe DEVIL TIGERS\e[21m~"
+echo -e "\e[36m   ~Script by \e[1mThe LOLODJY OFC\e[21m~"
 echo -e "\e[33m======================================================="
 echo " "
 echo -e "\e[93m\e[44mBy Clicking Enter you agree that"|pv -qL 20
@@ -41,9 +41,9 @@ echo -e "\e[34m   \____/_/   \_\_|  |_| \e[91m|_| |_/_/   \_\____|_|\_\ "
  echo " "
 echo -e "\e[31m======================================================="
 echo " "
-echo -e "\e[93m~THE DEVIL TIGERS~"
-echo -e "\e[93m~LINK :- www.youtube.com/c/thmalayalam"
-echo -e "\e[93m~Email :- thmalayalamchannel@gmail.com"
+echo -e "\e[93m~THE LOLODJY OFC~"
+echo -e "\e[93m~LINK :- https://www.youtube.com/@lolodjy"
+echo -e "\e[93m~Email :- lubinlowens59@gmail.com"
 echo " "
 echo -e "\e[31m======================================================="
 echo " "
