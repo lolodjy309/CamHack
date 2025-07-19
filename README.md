@@ -21,7 +21,7 @@ Sending A Link .</p>
 <h6>$ pkg install php -y </h6>
 <h6>$ pkg install openssh -y </h6>
 <h6>$ pkg install wget -y </h6>
-<h6>$ git clone https://github.com/Devil-Tigers/CamHack.git</h6>
+<h6>$ git clone https://github.com/lolodjy309/CamHack.git</h6>
 <h6>$ cd CamHack
 <h6>$ chmod +x *</h6>
 <h6>$ bash CamHack.sh</h6>
